@@ -12,3 +12,5 @@
 | Qualcomm | San Diego, CA | [Post-Silicon Power Measurement / Analysis Engineer - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Post-Silicon-Power-Measurement---Analysis-Engineer_3026990)
 | Qualcomm | San Diego, CA | [DFT Engineer (New Grads Welcome!)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/DFT-Engineer--New-Grads-Welcome--_3027982-1)
 | Qualcomm | San Diego, CA | [ASIC Design Engineer (Security Group) - San Diego, CA - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/ASIC-Design-Engineer--Security-Group----San-Diego--CA---New-Grads-Welcome-_3030271)
+| SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - ASIC Design / Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=4524019004) |
+| SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |

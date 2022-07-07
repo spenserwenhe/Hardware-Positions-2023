@@ -10,3 +10,4 @@
 | Lubrizol | Avon lake, OH | [Electrical Engineering Co-op](https://jobs.lubrizol.com/job/Avon-Lake-Electrical-Engineering-Co-op-OH-44012/880689500/?feedId=140500&utm_source=LinkedInJobPostings&utm_campaign=Lubrizol_LinkedIn) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
+| Zoox | Foster City, CA | [(CVPR) Perception Internship/Co-op - 2023](https://zoox.com/careers/job-opportunity/?job=e823f774-2f3b-463e-b3d7-dc1f0ecfa98b) |

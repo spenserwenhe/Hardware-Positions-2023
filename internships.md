@@ -17,6 +17,7 @@
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
 | Vermeer | Pella, IA | [Embedded Software Engineer Intern - May 2023](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2023_REQ-10885) |
+| Western Digital | Rochester, MN | [RAMP Co-op - Technology Development](https://jobs.smartrecruiters.com/WesternDigital/743999832726145-ramp-co-op-technology-development?src=JB-10069&trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |
 | Zoox | Foster City, CA | [(CVPR) Perception Internship/Co-op - 2023](https://zoox.com/careers/job-opportunity/?job=e823f774-2f3b-463e-b3d7-dc1f0ecfa98b) |
 
 [^1]: Must be a current Caterpillar Intern or Trainee

@@ -14,6 +14,9 @@
 | Gecko Robotics | Pittsburgh, PA | [Electrical/Firmware/Integration Engineering - Internship](https://www.geckorobotics.com/company/apply?gh_jid=5209108003&gh_src=f8594bd13us) |
 | Honda | Multiple Locations | [Electrical Engineering Co-op/Intern - Spring 2023](https://hondana.taleo.net/careersection/ah_ext_mobile/jobdetail.ftl?job=544548) |
 | IMC | Chicago, IL | [Hardware Engineer Intern (Summer 2023)](https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA/job/Hardware-Engineer-Intern----Summer-2023_REQ-01960-1) |
+| John Deere | Champaign, IL | [Electrification Application Engineer Intern – John Deere](https://researchpark.illinois.edu/job/electrification-application-engineer-intern-john-deere/) |
+| John Deere | Champaign, IL | [Electrification Product Engineer Intern- John Deere](https://researchpark.illinois.edu/job/electrification-product-engineer-intern-john-deere/) |
+| John Deere | Champaign, IL | [Sensing Engineer Intern – John Deere](https://researchpark.illinois.edu/job/sensing-engineer-intern-john-deere/) |
 | Lubrizol | Avon lake, OH | [Electrical Engineering Co-op](https://jobs.lubrizol.com/job/Avon-Lake-Electrical-Engineering-Co-op-OH-44012/880689500/?feedId=140500&utm_source=LinkedInJobPostings&utm_campaign=Lubrizol_LinkedIn) |
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |

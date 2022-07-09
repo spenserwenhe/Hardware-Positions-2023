@@ -6,7 +6,7 @@
 | Apple | Cupertino, CA | [Hardware Technology Internship (Summer 2023)](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT) |
 | Astranis | San Francisco, CA | [Radiation Effects - Intern ( Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/ca63e3fa-8386-4563-ab41-cd1bb6b8fdda) |
 | Astranis | San Francisco, CA | [Radio Hardware - Intern (Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/6efdf927-4c2f-4221-8f48-d3d4a2264df1) |
-| Caterpillar| Peoria, IL | [Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/) |
+| Caterpillar[^1] | Peoria, IL | [Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Winter 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Winter-2023-Meraki/1369140) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Summer-2023-Meraki/1373285) |
 | Gecko Robotics | Pittsburgh, PA | [Electrical/Firmware/Integration Engineering - Internship](https://www.geckorobotics.com/company/apply?gh_jid=5209108003&gh_src=f8594bd13us) |
@@ -18,3 +18,5 @@
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
 | Vermeer | Pella, IA | [Embedded Software Engineer Intern - May 2023](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2023_REQ-10885) |
 | Zoox | Foster City, CA | [(CVPR) Perception Internship/Co-op - 2023](https://zoox.com/careers/job-opportunity/?job=e823f774-2f3b-463e-b3d7-dc1f0ecfa98b) |
+
+[^1]: Must be a current Caterpillar Intern or Trainee

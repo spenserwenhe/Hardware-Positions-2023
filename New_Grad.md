@@ -7,7 +7,7 @@
 | Ampere | Santa Clara, CA | [IP Validation Engineer (CPU)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoOJPjfwp) |
 | Ampere | Santa Clara, CA | [RTL Design Engineer II, CPU - College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoxeDjfwr) |
 | Ampere | Santa Clara, CA | [Silicon Validation Engineer (DDR4/5)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoFLQjfwj) |
-| Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR)
+| Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR) |
 | Google | Mountain View, CA | [ASIC Design Verification Engineer, University Graduate](https://careers.google.com/jobs/results/109911190781469382/) |
 | Google | Sunnyvale, CA | [ASIC Design Verification Engineer, Early Career](https://careers.google.com/jobs/results/138059021136339654/) |
 | Google | Mountain View, CA | [RTL Design Engineer, Silicon, University Graduate](https://careers.google.com/jobs/results/135780478079640262/) |

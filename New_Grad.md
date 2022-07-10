@@ -21,7 +21,6 @@
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |
 | Western Digital | Milpitas, CA | [New College Graduate Engineer, Logic Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999837134647-new-college-graduate-engineer-logic-design-engineering) |
 | Western Digital | Milpitas, CA | [New College Grad 3D NAND Circuit Designer](https://jobs.smartrecruiters.com/WesternDigital/743999825665697-new-college-grad-3d-nand-circuit-designer) |
-| Western Digital | Milpitas, CA | [New College Grad Engineer, Product Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999806511398-new-college-grad-engineer-product-design-engineering) |
 | Western Digital | Milpitas, CA | [New College Grad Engineer, Logic Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999787887548-new-college-grad-engineer-logic-design-engineering) |
 | Western Digital | Milpitas, CA | [New College Grad Engineer, Analog & Mixed Signal Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999837134430-new-college-grad-engineer-analog-mixed-signal-design-engineering) |
 | Western Digital | Milpitas, CA | [New College Grad Senior Engineer, Electronic Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999825664753-new-college-grad-senior-engineer-electronic-design-engineering) |

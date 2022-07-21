@@ -12,6 +12,7 @@
 | Google | Sunnyvale, CA | [ASIC Design Verification Engineer, Early Career](https://careers.google.com/jobs/results/138059021136339654/) |
 | Google | Mountain View, CA | [RTL Design Engineer, Silicon, University Graduate](https://careers.google.com/jobs/results/135780478079640262/) |
 | IMEG | Detroit, MI | [Electrical Design Engineer (May 2023 Grad)](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Detroit-Metro-MI/Electrical-Design-Engineer--December-2022-Grad-_R-11224) |
+| Intel | Hillsboro, OR; Atlanta, GA; Washington, D.C.; Austin, TX | [Operating Systems Engineer - Entry Level](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Operating-Systems-Engineer---Entry-Level_JR0219242?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Micron | Atlanta, GA; Boise, ID; Allen, TX | [New College Grad - Electrical Engineering and Computer Engineering](https://micron.eightfold.ai/careers/job/11509064?domain=micron.com&src=JB-12600) | 
 | NVIDIA | Santa Clara, CA | [ASIC Verifciation Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/ASIC-Verification-Engineer---New-College-Grad_JR1959064) |
 | Qualcomm | Santa Clara, CA | [CPU Architect (Nuvia) - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Santa-Clara-USA/CPU-Architect--Nuvia----New-Grads-Welcome-_3030264) |

@@ -11,6 +11,7 @@
 | ~~Caterpillar[^1]~~ | ~~Peoria, IL~~ | ~~[Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/)~~ |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Winter 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Winter-2023-Meraki/1369140) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Summer-2023-Meraki/1373285) |
+| Emerson | Sidney, OH | [Electrical Engineering Co-op - (Summer 2023 Semester - May Start) - Multiple Positions Available](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22021046?utm_medium=jobshare) |
 | Gecko Robotics | Pittsburgh, PA | [Electrical/Firmware/Integration Engineering - Internship](https://www.geckorobotics.com/company/apply?gh_jid=5209108003&gh_src=f8594bd13us) |
 | Honda | Multiple Locations | [Electrical Engineering Co-op/Intern - Spring 2023](https://hondana.taleo.net/careersection/ah_ext_mobile/jobdetail.ftl?job=544548) |
 | IMC | Chicago, IL | [Hardware Engineer Intern (Summer 2023)](https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA/job/Hardware-Engineer-Intern----Summer-2023_REQ-01960-1) |

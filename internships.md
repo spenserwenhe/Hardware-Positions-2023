@@ -19,6 +19,7 @@
 | John Deere | Champaign, IL | [Electrification Product Engineer Intern](https://researchpark.illinois.edu/job/electrification-product-engineer-intern-john-deere/) |
 | John Deere | Champaign, IL | [Sensing Engineer Intern](https://researchpark.illinois.edu/job/sensing-engineer-intern-john-deere/) |
 | L3Harris | Mason, OH | [Component Electrical Eng Co-op - Spring/Summer 2023](https://careers.l3harris.com/job/-/-/4832/32596501920?src=SNS-10240) |
+| L3Harris | Multiple Cities | [Electrical Engineer Intern - Summer 2023](https://careers.l3harris.com/job/mason/electrical-engineer-intern-summer-2023-mason-oh/4832/32946489040) |
 | Lubrizol | Avon lake, OH | [Electrical Engineering Co-op](https://jobs.lubrizol.com/job/Avon-Lake-Electrical-Engineering-Co-op-OH-44012/880689500/?feedId=140500&utm_source=LinkedInJobPostings&utm_campaign=Lubrizol_LinkedIn) |
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |

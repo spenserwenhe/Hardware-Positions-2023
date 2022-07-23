@@ -19,7 +19,7 @@
 | NVIDIA | Santa Clara, CA | [ASIC Verifciation Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/ASIC-Verification-Engineer---New-College-Grad_JR1959064) |
 | Qualcomm | Santa Clara, CA | [CPU Architect (Nuvia) - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Santa-Clara-USA/CPU-Architect--Nuvia----New-Grads-Welcome-_3030264) |
 | Qualcomm | Austin, TX; Santa Clara, CA | [CPU Physical Design Engineer (New Grads Welcome)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Austin-USA/CPU-Physical-Design-Engineer_3022695) |
-| Qualcomm | San Jose, CA | [Design Verification Engineers - All Levels](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Design-Verification-Engineers---All-Levels_3028429?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locations=5fb3ae877e410101f2495178243e0000) |
+| Qualcomm | San Jose, CA | [Design Verification Engineers - All Levels](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Design-Verification-Engineers---All-Levels_3028429) |
 | Qualcomm | San Diego, CA | [Post-Silicon Power Measurement / Analysis Engineer - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Post-Silicon-Power-Measurement---Analysis-Engineer_3026990) |
 | Qualcomm | San Diego, CA | [DFT Engineer (New Grads Welcome!)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/DFT-Engineer--New-Grads-Welcome--_3027982-1) |
 | Qualcomm | San Diego, CA | [ASIC Design Engineer (Security Group) - San Diego, CA - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/ASIC-Design-Engineer--Security-Group----San-Diego--CA---New-Grads-Welcome-_3030271) |

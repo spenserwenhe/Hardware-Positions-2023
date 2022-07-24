@@ -3,6 +3,7 @@
 | Company | Location | Role |
 | --- | --- | --- |
 | Akuna Capital | Chicago, IL | [Junior Developer - FPGA](https://akunacapital.com/job-details?gh_jid=4272802) |
+| AMD | Santa Clara, CA | [RTL Design Engineer](https://jobs.amd.com/job/Santa-Clara-Junior-Silicon-Design-Engineer-118685-Cali/809000000/) |
 | Ampere | Santa Clara, CA | [CPU Design Verification Engineer – College Grad/Entry-Level](https://amperecomputing.com/apply/?p=job%2Focxojfwa) |
 | Ampere | Santa Clara, CA | [IP Validation Engineer (CPU)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoOJPjfwp) |
 | Ampere | Santa Clara, CA | [RTL Design Engineer II, CPU - College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoxeDjfwr) |

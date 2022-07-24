@@ -15,6 +15,7 @@
 | Intel | San Jose, CA; Hillsboro, OR; Austin, TX | [Analog Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Analog-Engineer_JR0229754?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Intel | Hudson, MA; Santa Clara, CA; Austin, TX | [Firmware Architecture and Design Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Firmware-Architecture-and-Design-Engineer_JR0230014?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Intel | Hillsboro, OR; Atlanta, GA; Washington, D.C.; Austin, TX | [Operating Systems Engineer - Entry Level](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Operating-Systems-Engineer---Entry-Level_JR0219242?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
+| L3Harris | Palm Bay, FL | [Antenna Electrical Engineer (NCG)](https://careers.l3harris.com/job/-/-/4832/31917154960) |
 | L3Harris | Multiple Locations | [Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32596521840) |
 | L3Harris | Waco, TX | [Electromagnetic Effects Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32954220048) |
 | L3Harris | Multiple Locations | [Optical Engineer Masters Grad (New Grad)](https://careers.l3harris.com/job/-/-/4832/12782536480) |

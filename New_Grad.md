@@ -16,6 +16,7 @@
 | Intel | Hudson, MA; Santa Clara, CA; Austin, TX | [Firmware Architecture and Design Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Firmware-Architecture-and-Design-Engineer_JR0230014?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Intel | Hillsboro, OR; Atlanta, GA; Washington, D.C.; Austin, TX | [Operating Systems Engineer - Entry Level](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Operating-Systems-Engineer---Entry-Level_JR0219242?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | L3Harris | Multiple Locations | [Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32596521840) |
+| L3Harris | Multiple Locations | [Optical Engineer Masters Grad (New Grad)](https://careers.l3harris.com/job/-/-/4832/12782536480) |
 | Micron | Atlanta, GA; Boise, ID; Allen, TX | [New College Grad - Electrical Engineering and Computer Engineering](https://micron.eightfold.ai/careers/job/11509064?domain=micron.com&src=JB-12600) | 
 | NVIDIA | Santa Clara, CA | [ASIC Verifciation Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/ASIC-Verification-Engineer---New-College-Grad_JR1959064) |
 | Qualcomm | Santa Clara, CA | [CPU Architect (Nuvia) - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Santa-Clara-USA/CPU-Architect--Nuvia----New-Grads-Welcome-_3030264) |

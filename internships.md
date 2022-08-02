@@ -3,6 +3,7 @@
 | Company | Location | Role |
 | --- | --- | --- |
 | Akuna Capital | Chicago, IL | [Development Internship - FPGA (Summer 2023)](https://akunacapital.com/job-details?gh_jid=4272847) |
+| Amazon | Multiple Locations | [Hardware Development Engineer Internship, Developing Engineers Program – 2023 (US)](https://www.amazon.jobs/en/jobs/2141740/hardware-development-engineer-internship-developing-engineers-program-2023-us) |
 | Apple | Cupertino, CA | [Hardware Technology Internship (Summer 2023)](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT) |
 | Astranis | San Francisco, CA | [Radiation Effects - Intern ( Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/ca63e3fa-8386-4563-ab41-cd1bb6b8fdda) |
 | Astranis | San Francisco, CA | [Radio Hardware - Intern (Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/6efdf927-4c2f-4221-8f48-d3d4a2264df1) |

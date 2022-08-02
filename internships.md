@@ -6,6 +6,7 @@
 | Amazon | Multiple Locations | [Hardware Development Engineer Internship – 2023 (US)](https://www.amazon.jobs/en/jobs/2141725/hardware-development-engineer-internship-2023-us) |
 | Amazon | Multiple Locations | [Hardware Development Engineer Internship, Developing Engineers Program – 2023 (US)](https://www.amazon.jobs/en/jobs/2141740/hardware-development-engineer-internship-developing-engineers-program-2023-us) |
 | Apple | Cupertino, CA | [Hardware Technology Internship (Summer 2023)](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT) |
+| Astranis | San Francisco, CA | [FPGA — Intern (Winter/Spring 2023)](https://jobs.lever.co/astranis/97edfd44-c74e-4d48-975f-1372573be209) |
 | Astranis | San Francisco, CA | [Radiation Effects - Intern ( Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/ca63e3fa-8386-4563-ab41-cd1bb6b8fdda) |
 | Astranis | San Francisco, CA | [Radio Hardware - Intern (Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/6efdf927-4c2f-4221-8f48-d3d4a2264df1) |
 | Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Undergraduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Undergraduate-Engineering-Intern_R22860) |

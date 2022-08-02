@@ -28,6 +28,7 @@
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
+| Tesla | Palo Alto, CA | [Electrical Test Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-test-engineering-internship-spring-2023-136579) |
 | The Hershey Company | Hershey, PA | [Electrical Engineering Co-Op (Spring 2023)](https://careers.thehersheycompany.com/job/Hershey-Electrical-Engineering-Co-Op-%28Spring-2023%29-PA-17033/910241000/) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
 | Vermeer | Pella, IA | [Embedded Software Engineer Intern - May 2023](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2023_REQ-10885) |

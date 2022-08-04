@@ -29,7 +29,21 @@
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
+| Tesla | Palo Alto, CA | [Autopilot Foundations Internship C/C++ (Spring 2023)](https://www.tesla.com/careers/search/job/autopilot-foundations-internship-c-c-spring-2023-136654) |
+| Tesla | Palo Alto, CA | [Electrical Design Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-design-internship-spring-2023-136435) |
+| Tesla | Palo Alto, CA | [Electrical Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-engineering-internship-spring-2023-136438) |
 | Tesla | Palo Alto, CA | [Electrical Test Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-test-engineering-internship-spring-2023-136579) |
+| Tesla | Palo Alto, CA | [Mobile Robotics / Tesla Bot Electrical Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/mobile-robotics-tesla-bot-electrical-engineering-internship-spring-2023-136612) |
+| Tesla | Palo Alto, CA | [Power Systems Internship (Spring 2023)](https://www.tesla.com/careers/search/job/power-systems-internship-spring-2023-136471) |
+| Tesla | Palo Alto, CA | [System Integration and Test Automation Internship (Spring 2023)](https://www.tesla.com/careers/search/job/system-integration-and-test-automation-internship-spring-2023-136519) |
+| Tesla | Palo Alto, CA | [System Software Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/system-software-engineering-internship-spring-2023-136522) |
+| Tesla | Palo Alto, CA | [Vehicle Firmware Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-firmware-engineering-internship-spring-2023-136696) |
+| Tesla | Palo Alto, CA | [Vehicle Hardware Electrical/Computer Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-hardware-electrical-computer-engineering-internship-spring-2023-136702) |
+| Tesla | Palo Alto, CA | [Vehicle Hardware - Radio Frequency Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-hardware-radio-frequency-engineering-internship-spring-2023-136711) |
+| Tesla | Palo Alto, CA | [Vehicle Hardware - Silicon Development Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-hardware-silicon-development-engineering-internship-spring-2023-136714) |
+| Tesla | Palo Alto, CA | [Vehicle Software Embedded Systems Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-software-embedded-systems-engineering-internship-spring-2023-136723) |
+| Tesla | Palo Alto, CA | [Vehicle Software Integration Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-software-integration-engineering-internship-spring-2023-136726) |
+| Tesla | Palo Alto, CA | [Vehicle Software Validation Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-spring-2023-136639) |
 | The Hershey Company | Hershey, PA | [Electrical Engineering Co-Op (Spring 2023)](https://careers.thehersheycompany.com/job/Hershey-Electrical-Engineering-Co-Op-%28Spring-2023%29-PA-17033/910241000/) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
 | Vermeer | Pella, IA | [Embedded Software Engineer Intern - May 2023](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2023_REQ-10885) |

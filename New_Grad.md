@@ -22,6 +22,7 @@
 | L3Harris | Waco, TX | [Electromagnetic Effects Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32954220048) |
 | L3Harris | Multiple Locations | [Optical Engineer Masters Grad (New Grad)](https://careers.l3harris.com/job/-/-/4832/12782536480) |
 | Micron | Atlanta, GA; Boise, ID; Allen, TX | [New College Grad - Electrical Engineering and Computer Engineering](https://micron.eightfold.ai/careers/job/11509064?domain=micron.com&src=JB-12600) | 
+| Microsoft | Redmond, WA; Mountain View, CA | [Software for Hardware Software Engineer: Full Time Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381812/Software-for-Hardware-Software-Engineer-Full-Time-Opportunities-for-University-Graduates) |
 | NVIDIA | Santa Clara, CA | [ASIC Verifciation Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/ASIC-Verification-Engineer---New-College-Grad_JR1959064) |
 | Qualcomm | Santa Clara, CA | [CPU Architect (Nuvia) - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Santa-Clara-USA/CPU-Architect--Nuvia----New-Grads-Welcome-_3030264) |
 | Qualcomm | Austin, TX; Santa Clara, CA | [CPU Physical Design Engineer (New Grads Welcome)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Austin-USA/CPU-Physical-Design-Engineer_3022695) |

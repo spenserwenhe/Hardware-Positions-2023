@@ -29,6 +29,8 @@
 | Microsoft | Redmond, WA; Mountain View, CA | [Software for Hardware Software Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381810/Software-for-Hardware-Software-Engineer-Intern-Opportunities-for-University-Graduates) |
 | Nokia | Westford, MA | [Hardware/Diagnostic Development Co-op](https://aluperf.referrals.selectminds.com/jobs/hardware-diagnostic-development-co-op-85897) |
 | Nokia | Westford, MA | [Regression Lab Co-op](https://aluperf.referrals.selectminds.com/jobs/regression-lab-co-op-85896) |
+| NVIDIA | Santa Clara, CA; Remote | [Interested in Internships – Computer Architecture 2023](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Interested-in-Internships---Computer-Architecture-2023_JR1961145-1) |
+| NVIDIA | Santa Clara, CA; Remote | [Interested in Internships – Hardware 2023](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Interested-in-Internships---Hardware-2023_JR1961141-1) |
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |

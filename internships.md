@@ -12,6 +12,8 @@
 | Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Undergraduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Undergraduate-Engineering-Intern_R22860) |
 | Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Graduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Graduate-Engineering-Intern_R22868) |
 | ~~Caterpillar[^1]~~ | ~~Peoria, IL~~ | ~~[Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/)~~ |
+| Cisco | Multiple Locations | [Hardware Engineer I (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1380608) |
+| Cisco | Multiple Locations | [Hardware Engineer II (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1380611) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Winter 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Winter-2023-Meraki/1369140) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Summer-2023-Meraki/1373285) |
 | ~~Emerson~~ | ~~Sidney, OH~~ | ~~[Electrical Engineering Co-op - (Summer 2023 Semester - May Start) - Multiple Positions Available](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22021046?utm_medium=jobshare)~~ |

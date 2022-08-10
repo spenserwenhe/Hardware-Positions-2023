@@ -3,6 +3,7 @@
 | Company | Location | Role |
 | --- | --- | --- |
 | Akuna Capital | Chicago, IL | [Development Internship - FPGA (Summer 2023)](https://akunacapital.com/job-details?gh_jid=4272847) |
+| Amazon | Seattle, WA | [Application-Specific Integrated Circuit (ASIC) Engineer Internship – 2023 (US)](https://www.amazon.jobs/en/jobs/2141738/application-specific-integrated-circuit-asic-engineer-internship-2023-us) |
 | Amazon | Multiple Locations | [Hardware Development Engineer Internship – 2023 (US)](https://www.amazon.jobs/en/jobs/2141725/hardware-development-engineer-internship-2023-us) |
 | Amazon | Multiple Locations | [Hardware Development Engineer Internship, Developing Engineers Program – 2023 (US)](https://www.amazon.jobs/en/jobs/2141740/hardware-development-engineer-internship-developing-engineers-program-2023-us) |
 | Apple | Cupertino, CA | [Hardware Technology Internship (Summer 2023)](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT) |

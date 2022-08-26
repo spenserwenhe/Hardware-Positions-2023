@@ -21,6 +21,7 @@
 | ~~Emerson~~ | ~~Sidney, OH~~ | ~~[Electrical Engineering Co-op - (Summer 2023 Semester - May Start) - Multiple Positions Available](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22021046?utm_medium=jobshare)~~ |
 | Gecko Robotics | Pittsburgh, PA | [Electrical/Firmware/Integration Engineering - Internship](https://www.geckorobotics.com/company/apply?gh_jid=5209108003&gh_src=f8594bd13us) |
 | Honda | Multiple Locations | [Electrical Engineering Co-op/Intern - Spring 2023](https://hondana.taleo.net/careersection/ah_ext_mobile/jobdetail.ftl?job=544548) |
+| IBM | Multiple Locations | [Firmware Developer Summer Intern: 2023](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) |
 | IMC | Chicago, IL | [Hardware Engineer Intern (Summer 2023)](https://imc.wd5.myworkdayjobs.com/en-US/IMC_USA/job/Hardware-Engineer-Intern----Summer-2023_REQ-01960-1) |
 | Intramotev | Saint Louis, MO | [Electrical Engineering Intern / Co-Op (Dec 2023 through May 2025 Grads)](https://intramotev-autonomous-rail.breezy.hr/p/18429a1145b8-electrical-engineering-intern-co-op-dec-2023-through-may-2025-grads) |
 | John Deere | Champaign, IL | [Electrification Application Engineer Intern](https://researchpark.illinois.edu/job/electrification-application-engineer-intern-john-deere/) |

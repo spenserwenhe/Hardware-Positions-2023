@@ -28,6 +28,7 @@
 | John Deere | Champaign, IL | [Sensing Engineer Intern](https://researchpark.illinois.edu/job/sensing-engineer-intern-john-deere/) |
 | L3Harris | Mason, OH | [Component Electrical Eng Co-op - Spring/Summer 2023](https://careers.l3harris.com/job/-/-/4832/32596501920?src=SNS-10240) |
 | L3Harris | Multiple Cities | [Electrical Engineer Intern - Summer 2023](https://careers.l3harris.com/job/mason/electrical-engineer-intern-summer-2023-mason-oh/4832/32946489040) |
+| Lockheed Martin | Owego, NY | [Electrical Engineer (Circuit Card Design) - Intern](https://www.lockheedmartinjobs.com/job/owego/electrical-engineer-circuit-card-design-intern/694/34924019104) |
 | Lubrizol | Avon lake, OH | [Electrical Engineering Co-op](https://jobs.lubrizol.com/job/Avon-Lake-Electrical-Engineering-Co-op-OH-44012/880689500/?feedId=140500&utm_source=LinkedInJobPostings&utm_campaign=Lubrizol_LinkedIn) |
 | Microsoft | Redmond, WA | [Electrical Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381733/Electrical-Engineer-Intern-Opportunities-for-University-Graduates) |
 | Microsoft | Redmond, WA | [Hardware Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381707/Hardware-Engineer-Intern-Opportunities-for-University-Graduates) |

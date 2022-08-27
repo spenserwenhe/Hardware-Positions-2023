@@ -31,6 +31,7 @@
 | Microsoft | Redmond, WA; Mountain View, CA | [Software for Hardware Software Engineer: Full Time Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381812/Software-for-Hardware-Software-Engineer-Full-Time-Opportunities-for-University-Graduates) |
 | National Instruments | Austin, TX | [Hardware-Analog Engineer 1](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5827) |
 | NVIDIA | Santa Clara, CA | [ASIC Verifciation Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/ASIC-Verification-Engineer---New-College-Grad_JR1959064) |
+| Optiver | Chicago, IL; Austin, TX | [Graduate FPGA Engineer (2023 Start)](https://optiver.com/working-at-optiver/career-opportunities/6320431002/) |
 | Qualcomm | Santa Clara, CA | [CPU Architect (Nuvia) - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Santa-Clara-USA/CPU-Architect--Nuvia----New-Grads-Welcome-_3030264) |
 | Qualcomm | Austin, TX; Santa Clara, CA | [CPU Physical Design Engineer (New Grads Welcome)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Austin-USA/CPU-Physical-Design-Engineer_3022695) |
 | Qualcomm | San Jose, CA | [Design Verification Engineers - All Levels](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Design-Verification-Engineers---All-Levels_3028429) |

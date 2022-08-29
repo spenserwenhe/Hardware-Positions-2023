@@ -40,6 +40,7 @@
 | Qualcomm | San Diego, CA | [ASIC Design Engineer (Security Group) - San Diego, CA - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/ASIC-Design-Engineer--Security-Group----San-Diego--CA---New-Grads-Welcome-_3030271) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - ASIC Design / Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=4524019004) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |
+| Silicon Labs | Austin, TX | [RFIC Design Engineer - New College Graduates](https://jobs.jobvite.com/silabs/job/oWiJkfw1) |
 | Sonova Group | Valencia, CA | [Junior Analog ASIC Engineer (IC Design)](https://jobs.sonova.com/default/job/Valencia-%28CA%29-Junior-ASIC-Systems-Engineer/827118801/) |
 | Western Digital | Milpitas, CA | [New College Graduate Engineer, Logic Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999837134647-new-college-graduate-engineer-logic-design-engineering) |
 | Western Digital | Milpitas, CA | [New College Grad 3D NAND Circuit Designer](https://jobs.smartrecruiters.com/WesternDigital/743999825665697-new-college-grad-3d-nand-circuit-designer) |

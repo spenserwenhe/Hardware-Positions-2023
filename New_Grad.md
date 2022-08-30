@@ -43,6 +43,7 @@
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |
 | Silicon Labs | Austin, TX | [RFIC Design Engineer - New College Graduates](https://jobs.jobvite.com/silabs/job/oWiJkfw1) |
 | Sonova Group | Valencia, CA | [Junior Analog ASIC Engineer (IC Design)](https://jobs.sonova.com/default/job/Valencia-%28CA%29-Junior-ASIC-Systems-Engineer/827118801/) |
+| Texas Instruments | Dallas, TX | [Applications Engineering Rotation Program](https://careers.ti.com/job/16564556/applications-engineering-rotation-program-dallas-tx/) |
 | Texas Instruments | Dallas, TX | [Digital IC Design Engineer – Bachelors](https://careers.ti.com/job/16564557/digital-ic-design-engineer-bachelors-dallas-tx/) |
 | Texas Instruments | Dallas, TX | [Systems Engineer – Analog](https://careers.ti.com/job/16565308/systems-engineer-analog-dallas-tx/) |
 | Western Digital | Milpitas, CA | [New College Graduate Engineer, Logic Design Engineering](https://jobs.smartrecruiters.com/WesternDigital/743999837134647-new-college-graduate-engineer-logic-design-engineering) |

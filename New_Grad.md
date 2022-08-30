@@ -18,6 +18,7 @@
 | IBM | Multiple Locations | [Entry Level Hardware Developer: 2023](https://careers.ibm.com/job/16431632/entry-level-hardware-developer-2023-remote/?codes=IBM_CareerWebSite) |
 | IBM | Multiple Locations | [Entry Level Processor & Chip Design: 2023](https://careers.ibm.com/job/16478327/entry-level-processor-chip-design-2023-remote/?codes=IBM_CareerWebSite) |
 | IMEG | Detroit, MI | [Electrical Design Engineer (May 2023 Grad)](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Detroit-Metro-MI/Electrical-Design-Engineer--December-2022-Grad-_R-11224) |
+| Infineon | Chandler, AZ | [Graduate - Senior Engineer System Architecture](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/364956-Graduate-Senior-Engineer-System-Architecture/) |
 | Intel | San Jose, CA; Hillsboro, OR; Austin, TX | [Analog Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Analog-Engineer_JR0229754?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Intel | Hudson, MA; Santa Clara, CA; Austin, TX | [Firmware Architecture and Design Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Firmware-Architecture-and-Design-Engineer_JR0230014?locations=1e4a4eb3adf101d3aea90377bf818ecf) |
 | Intel | Hillsboro, OR; Atlanta, GA; Washington, D.C.; Austin, TX | [Operating Systems Engineer - Entry Level](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Operating-Systems-Engineer---Entry-Level_JR0219242?locations=1e4a4eb3adf101d3aea90377bf818ecf) |

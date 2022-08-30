@@ -13,9 +13,9 @@
 | Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR) |
 | Anduril | Costa Mesa, CA | [Electrical Engineer - New Grad](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
 | Cisco | Multiple Locations | [ASIC Engineer I](https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineer-I-Full-Time-United-States/1381638) |
-| Google | Mountain View, CA | [ASIC Design Verification Engineer, University Graduate](https://careers.google.com/jobs/results/109911190781469382/) |
+| ~~Google | Mountain View, CA | [ASIC Design Verification Engineer, University Graduate](https://careers.google.com/jobs/results/109911190781469382/)~~ |
 | Google | Sunnyvale, CA | [ASIC Design Verification Engineer, Early Career](https://careers.google.com/jobs/results/138059021136339654/) |
-| Google | Mountain View, CA | [RTL Design Engineer, Silicon, University Graduate](https://careers.google.com/jobs/results/135780478079640262/) |
+| ~~Google | Mountain View, CA | [RTL Design Engineer, Silicon, University Graduate](https://careers.google.com/jobs/results/135780478079640262/)~~ |
 | IBM | Multiple Locations | [Entry Level Firmware Developer : 2023](https://careers.ibm.com/job/16455961/entry-level-firmware-developer-2023-poughkeepsie-ny/?codes=IBM_CareerWebSite) |
 | IBM | Multiple Locations | [Entry Level Hardware Developer: 2023](https://careers.ibm.com/job/16431632/entry-level-hardware-developer-2023-remote/?codes=IBM_CareerWebSite) |
 | IBM | Multiple Locations | [Entry Level Processor & Chip Design: 2023](https://careers.ibm.com/job/16478327/entry-level-processor-chip-design-2023-remote/?codes=IBM_CareerWebSite) |

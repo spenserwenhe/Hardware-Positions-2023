@@ -28,6 +28,7 @@
 | L3Harris | Multiple Locations | [Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32596521840) |
 | L3Harris | Waco, TX | [Electromagnetic Effects Electrical Engineer (New Grad)](https://careers.l3harris.com/job/-/-/4832/32954220048) |
 | L3Harris | Multiple Locations | [Optical Engineer Masters Grad (New Grad)](https://careers.l3harris.com/job/-/-/4832/12782536480) |
+| Lucid Motors | Newark, CA | [Embedded SW Engineer - Powertrain Platform (Early Career)](https://jobs.lever.co/lucidmotors/2bd0e902-5b21-477a-87ba-e26782232c4a) |
 | Micron | Atlanta, GA; Boise, ID; Allen, TX | [New College Grad - Electrical Engineering and Computer Engineering](https://micron.eightfold.ai/careers/job/11509064?domain=micron.com&src=JB-12600) |
 | Microsoft | Redmond, WA; Atlanta, GA | [Hardware Engineer: Full Time Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381732/Hardware-Engineer-Full-Time-Opportunities-for-University-Graduates) |
 | Microsoft | Redmond, WA; Mountain View, CA | [Software for Hardware Software Engineer: Full Time Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381812/Software-for-Hardware-Software-Engineer-Full-Time-Opportunities-for-University-Graduates) |

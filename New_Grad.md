@@ -11,6 +11,7 @@
 | Ampere | Santa Clara, CA | [RTL Design Engineer II, CPU - College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoxeDjfwr) |
 | Ampere | Santa Clara, CA | [Silicon Validation Engineer (DDR4/5)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoFLQjfwj) |
 | Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR) |
+| Anduril | Costa Mesa, CA | [Electrical Engineer - New Grad](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
 | Cisco | Multiple Locations | [ASIC Engineer I](https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineer-I-Full-Time-United-States/1381638) |
 | Google | Mountain View, CA | [ASIC Design Verification Engineer, University Graduate](https://careers.google.com/jobs/results/109911190781469382/) |
 | Google | Sunnyvale, CA | [ASIC Design Verification Engineer, Early Career](https://careers.google.com/jobs/results/138059021136339654/) |

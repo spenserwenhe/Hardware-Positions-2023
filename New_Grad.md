@@ -6,6 +6,7 @@
 | Amazon | Seattle, WA | [Firmware Development Engineer I, Prime Air](https://www.amazon.jobs/en/jobs/1778733/firmware-development-engineer-i-prime-air) |
 | AMD | Roseville, CA | [GPU Architectural Modeling Engineer](https://jobs.amd.com/job/Roseville-GPU-Architectural-Modeling-Engineer-Cali/846144900/) |
 | AMD | Santa Clara, CA | [RTL Design Engineer](https://jobs.amd.com/job/Santa-Clara-Junior-Silicon-Design-Engineer-118685-Cali/809000000/) |
+| AMD | Austin, TX | [SoC Systems Design Engineer](https://jobs.amd.com/job/Austin-SoC-Systems-Design-Engineer-Texa/926804800/) |
 | Ampere | Santa Clara, CA | [CPU Design Verification Engineer – College Grad/Entry-Level](https://amperecomputing.com/apply/?p=job%2Focxojfwa) |
 | Ampere | Santa Clara, CA | [IP Validation Engineer (CPU)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoOJPjfwp) |
 | Ampere | Santa Clara, CA | [RTL Design Engineer II, CPU - College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoxeDjfwr) |

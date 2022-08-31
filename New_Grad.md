@@ -46,6 +46,7 @@
 | Rivian | Palo Alto, CA | [Embedded Software Engineer (All levels)](https://boards.greenhouse.io/rivian/jobs/5287662003) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - ASIC Design / Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=4524019004) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |
+| Silicon Labs | Austin, TX; Boston, MA | [Embedded Software Engineer - New College Graduates](https://jobs.jobvite.com/silabs/job/oTBIkfwg) |
 | Silicon Labs | Austin, TX | [RFIC Design Engineer - New College Graduates](https://jobs.jobvite.com/silabs/job/oWiJkfw1) |
 | Sonova Group | Valencia, CA | [Junior Analog ASIC Engineer (IC Design)](https://jobs.sonova.com/default/job/Valencia-%28CA%29-Junior-ASIC-Systems-Engineer/827118801/) |
 | Texas Instruments | Dallas, TX | [Applications Engineering Rotation Program](https://careers.ti.com/job/16564556/applications-engineering-rotation-program-dallas-tx/) |

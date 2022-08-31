@@ -29,6 +29,7 @@
 | John Deere | Champaign, IL | [Electrification Application Engineer Intern](https://researchpark.illinois.edu/job/electrification-application-engineer-intern-john-deere/) |
 | John Deere | Champaign, IL | [Electrification Product Engineer Intern](https://researchpark.illinois.edu/job/electrification-product-engineer-intern-john-deere/) |
 | John Deere | Champaign, IL | [Sensing Engineer Intern](https://researchpark.illinois.edu/job/sensing-engineer-intern-john-deere/) |
+| Johnson & Johnson | Santa Clara, CA | [Electrical Test Engineering Spring 2023 Co-op](https://jobs.jnj.com/jobs/2206068358W) |
 | L3Harris | Mason, OH | [Component Electrical Eng Co-op - Spring/Summer 2023](https://careers.l3harris.com/job/-/-/4832/32596501920?src=SNS-10240) |
 | L3Harris | Multiple Cities | [Electrical Engineer Intern - Summer 2023](https://careers.l3harris.com/job/mason/electrical-engineer-intern-summer-2023-mason-oh/4832/32946489040) |
 | Lockheed Martin | Owego, NY | [Electrical Engineer (Circuit Card Design) - Intern](https://www.lockheedmartinjobs.com/job/owego/electrical-engineer-circuit-card-design-intern/694/34924019104) |

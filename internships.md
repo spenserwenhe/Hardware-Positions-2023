@@ -45,6 +45,11 @@
 | Plexus | Neenah, WI | [Intern - Analog Engineer - Spring 2023](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Intern---Analog-Engineer---Spring-2023_R020602-1) |
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Physical Design - Intern](https://jobs.lever.co/rivosinc/2ce5cfd6-59da-41a0-8415-16b422257aaf) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Architecture - Intern](https://jobs.lever.co/rivosinc/44a1d380-4c5d-46b3-afe1-b1a96e19ff6e) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Microarchitecture & Logic Design - Intern](https://jobs.lever.co/rivosinc/68135caa-e8cd-4e01-a69e-ab753c1635e4) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Verification - Intern](https://jobs.lever.co/rivosinc/d1f29c95-247b-421d-a0f6-8671e03dd0f2) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Performance Modeling - Intern](https://jobs.lever.co/rivosinc/183bfa6e-4bd3-4de2-a77e-bcb71ef1c859) |
 | Tesla | Palo Alto, CA | [Autopilot Foundations Internship C/C++ (Spring 2023)](https://www.tesla.com/careers/search/job/autopilot-foundations-internship-c-c-spring-2023-136654) |
 | Tesla | Palo Alto, CA | [Electrical Design Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-design-internship-spring-2023-136435) |
 | Tesla | Palo Alto, CA | [Electrical Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-engineering-internship-spring-2023-136438) |

@@ -13,6 +13,13 @@
 | Ampere | Santa Clara, CA | [Silicon Validation Engineer (DDR4/5)- College Grad/Entry Level](https://amperecomputing.com/apply/?p=job%2FoFLQjfwj) |
 | Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR) |
 | Anduril | Costa Mesa, CA | [Electrical Engineer - New Grad](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
+| ARM | Austin, TX | [Graduate Rotation Engineer - CPU](https://careers.arm.com/job/austin/graduate-rotation-engineer-cpu/33099/35369280912) | 
+| ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463552) | 
+| ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463424) | 
+| ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architech/33099/35486463440) | 
+| ARM | Austin, TX | [Graduate Design Verification Engineer - System IP](https://careers.arm.com/job/austin/graduate-design-verification-engineer-system-ip/33099/35369280512) | 
+| ARM | Austin, TX | [Graduate Implementation Engineer - CPU](https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/35369280832) | 
+| ARM | Austin, TX | [Graduate Rotation Engineer - System IP](https://careers.arm.com/job/austin/graduate-rotation-engineer-system-ip/33099/35369280608) | 
 | Cisco | Multiple Locations | [ASIC Engineer I](https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineer-I-Full-Time-United-States/1381638) |
 | ~~Google~~ | ~~Mountain View, CA~~ | ~~[ASIC Design Verification Engineer, University Graduate](https://careers.google.com/jobs/results/109911190781469382/)~~ |
 | Google | Sunnyvale, CA | [ASIC Design Verification Engineer, Early Career](https://careers.google.com/jobs/results/138059021136339654/) |

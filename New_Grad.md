@@ -16,7 +16,7 @@
 | ARM | Austin, TX | [Graduate Rotation Engineer - CPU](https://careers.arm.com/job/austin/graduate-rotation-engineer-cpu/33099/35369280912) | 
 | ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463552) | 
 | ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463424) | 
-| ARM | Austin, TX | [Graduate Architech](https://careers.arm.com/job/austin/graduate-architech/33099/35486463440) | 
+| ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architech/33099/35486463440) | 
 | ARM | Austin, TX | [Graduate Design Verification Engineer - System IP](https://careers.arm.com/job/austin/graduate-design-verification-engineer-system-ip/33099/35369280512) | 
 | ARM | Austin, TX | [Graduate Implementation Engineer - CPU](https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/35369280832) | 
 | ARM | Austin, TX | [Graduate Rotation Engineer - System IP](https://careers.arm.com/job/austin/graduate-rotation-engineer-system-ip/33099/35369280608) | 

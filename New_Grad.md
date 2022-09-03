@@ -44,6 +44,21 @@
 | Qualcomm | San Diego, CA | [DFT Engineer (New Grads Welcome!)](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/DFT-Engineer--New-Grads-Welcome--_3027982-1) |
 | Qualcomm | San Diego, CA | [ASIC Design Engineer (Security Group) - San Diego, CA - New Grads Welcome!](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/ASIC-Design-Engineer--Security-Group----San-Diego--CA---New-Grads-Welcome-_3030271) |
 | Rivian | Palo Alto, CA | [Embedded Software Engineer (All levels)](https://boards.greenhouse.io/rivian/jobs/5287662003) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Analog Mixed Signal Design](https://jobs.lever.co/rivosinc/1f21bda3-14c5-4619-8287-87e25d549840) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Analog Mixed Signal Design Verification](https://jobs.lever.co/rivosinc/4431d70c-72e2-478b-a018-b5551da0f71a) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [CPU Microarchitecture & Logic Design](https://jobs.lever.co/rivosinc/3570732f-815a-47de-bc21-9550e18a3e77) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [CPU Physical Design Methodology Engineer](https://jobs.lever.co/rivosinc/c552c3cc-be1a-4552-b635-8b6606b4c26e) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [CPU Physical Design Verification Engineer](https://jobs.lever.co/rivosinc/756b73b3-67cb-47f9-a567-ae05580870ff) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [CPU Power Management and Debug Microarchitecture & Logic Design](https://jobs.lever.co/rivosinc/78b7c517-5243-496e-9cdd-6edda9de5f6b) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [CPU Static Timing Analysis Engineer](https://jobs.lever.co/rivosinc/1a448097-69eb-4fdb-a21d-55e67a39403d) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Custom Memory Design](https://jobs.lever.co/rivosinc/2159673e-2da0-4517-b0de-f17317fdb0fb) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Interconnect/Fabric Microarchitecture & Logic Design](https://jobs.lever.co/rivosinc/6b61089d-e595-4668-adf8-0e51e1e74961) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Memory Controller Microarchitecture & Logic Design](https://jobs.lever.co/rivosinc/bb7e4fe3-c727-480a-90f9-17f40900e134) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Physical Design, CPU](https://jobs.lever.co/rivosinc/7953907e-e8b6-43f7-a0b5-4908c01fd6fe) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Physical Design, SOC](https://jobs.lever.co/rivosinc/f5af5a8b-84fe-4e11-83b1-d39ebc144c6e) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Architecture](https://jobs.lever.co/rivosinc/e0508432-ac3d-4661-82cc-1943cd07b851) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Custom Circuit Design (Digital or Analog)](https://jobs.lever.co/rivosinc/9b2ddd00-7749-43bf-a0fd-179a15089f98) |
+| Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Verification](https://jobs.lever.co/rivosinc/65bfbca4-1201-4f1d-a4eb-55f3a9dcbea7) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - ASIC Design / Design Verification Engineer](https://sambanova.ai/sambanova-available-positions/?gh_jid=4524019004) |
 | SambaNova Systems | Palo Alto, CA; Austin, TX | [New College Grad - Hardware Engineering](https://sambanova.ai/sambanova-available-positions/?gh_jid=4075888004) |
 | Silicon Labs | Austin, TX; Boston, MA | [Embedded Software Engineer - New College Graduates](https://jobs.jobvite.com/silabs/job/oTBIkfwg) |

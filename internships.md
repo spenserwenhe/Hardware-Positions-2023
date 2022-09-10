@@ -51,6 +51,7 @@
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Microarchitecture & Logic Design - Intern](https://jobs.lever.co/rivosinc/68135caa-e8cd-4e01-a69e-ab753c1635e4) |
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Verification - Intern](https://jobs.lever.co/rivosinc/d1f29c95-247b-421d-a0f6-8671e03dd0f2) |
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Performance Modeling - Intern](https://jobs.lever.co/rivosinc/183bfa6e-4bd3-4de2-a77e-bcb71ef1c859) |
+| Shure | Niles, IL | [FPGA Design Engineering Intern](https://careers-shure.icims.com/jobs/2840/fpga-design-engineering-intern/job) |
 | Tesla | Palo Alto, CA | [Autopilot Foundations Internship C/C++ (Spring 2023)](https://www.tesla.com/careers/search/job/autopilot-foundations-internship-c-c-spring-2023-136654) |
 | Tesla | Palo Alto, CA | [Electrical Design Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-design-internship-spring-2023-136435) |
 | Tesla | Palo Alto, CA | [Electrical Engineering Internship (Spring 2023)](https://www.tesla.com/careers/search/job/electrical-engineering-internship-spring-2023-136438) |

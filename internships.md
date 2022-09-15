@@ -47,6 +47,7 @@
 | Raytheon Intelligence and Space | Goleta, CA | [2023 RVS Summer Intern](https://careers.rtx.com/global/en/job/01549346) |
 | Rivian | Palo Alto, CA | [Autonomous Driving Internship (Summer 2023)](https://boards.greenhouse.io/rivian/jobs/5307484003) |
 | Rivian | Irvine, CA | [Product Development Engineering Interns - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5199457003) |
+| Rivian | Palo Alto, CA | [Software Engineering Internship - Summer 2023](https://boards.greenhouse.io/rivian/jobs/5303129003) |
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Physical Design - Intern](https://jobs.lever.co/rivosinc/2ce5cfd6-59da-41a0-8415-16b422257aaf) |
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Architecture - Intern](https://jobs.lever.co/rivosinc/44a1d380-4c5d-46b3-afe1-b1a96e19ff6e) |
 | Rivos | Mountain View, CA; Austin, TX; Portland, OR; Fort Collins, CO | [Silicon Microarchitecture & Logic Design - Intern](https://jobs.lever.co/rivosinc/68135caa-e8cd-4e01-a69e-ab753c1635e4) |

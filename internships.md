@@ -37,6 +37,9 @@
 | Marvel Technology | Multiple Locations | [Logic Design and Verification Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Austin-TX/Logic-Design-and-Verification-Engineer-Intern_2202376) |
 | Medtronic | Santa Rosa, CA | [Electrical Engineering Summer 2023 Intern - Undergraduate](https://medtronic.eightfold.ai/careers/job?domain=medtronic.com&query=summer%202023%20intern%20-%20undergraduate&location=United%20States&pid=12762699&triggerGoButton=false&triggerGoButton=true) |
 | Micron | Minneapolis, MN | [Intern - ASIC Design Verification](https://micron.eightfold.ai/careers/job/13337683) |
+| Micron | Minneapolis, MN | [Intern ASIC Physical Design Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern-ASIC-Physical-Design-Engineer_JR33577)
+| Micron | Atlanta, GA | [Intern - DRAM Design Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern---DRAM-Design-Engineer_JR33906)
+| Micron | Boise, ID | [Intern - DRAM Design Engineer-2](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern--DRAM-Design-Engineer-2_JR34233)
 | Microsoft | Redmond, WA | [Electrical Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381733/Electrical-Engineer-Intern-Opportunities-for-University-Graduates) |
 | Microsoft | Redmond, WA | [Hardware Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381707/Hardware-Engineer-Intern-Opportunities-for-University-Graduates) |
 | Microsoft | Redmond, WA; Mountain View, CA | [Software for Hardware Software Engineer: Intern Opportunities for University Graduates](https://careers.microsoft.com/us/en/job/1381810/Software-for-Hardware-Software-Engineer-Intern-Opportunities-for-University-Graduates) |

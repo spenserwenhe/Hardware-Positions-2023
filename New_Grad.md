@@ -14,7 +14,6 @@
 | Ampere | Portland, OR; Santa Clara, CA; Durham, NC| [College Grad/Entry Level Engineer - Software or Hardware - 2022](https://amperecomputing.com/apply/?p=job%2FoCqPgfwR) |
 | Anduril | Costa Mesa, CA | [Electrical Engineer - New Grad](https://jobs.lever.co/anduril/698c6c0b-9097-4028-bad3-44aaaaa07d0e) |
 | ARM | Austin, TX | [Graduate Rotation Engineer - CPU](https://careers.arm.com/job/austin/graduate-rotation-engineer-cpu/33099/35369280912) | 
-| ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463552) | 
 | ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architect/33099/35486463424) | 
 | ARM | Austin, TX | [Graduate Architect](https://careers.arm.com/job/austin/graduate-architech/33099/35486463440) | 
 | ARM | Austin, TX | [Graduate Design Verification Engineer - System IP](https://careers.arm.com/job/austin/graduate-design-verification-engineer-system-ip/33099/35369280512) | 

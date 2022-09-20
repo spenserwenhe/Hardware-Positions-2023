@@ -11,7 +11,6 @@
 | Astranis | San Francisco, CA | [Radiation Effects - Intern ( Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/ca63e3fa-8386-4563-ab41-cd1bb6b8fdda) |
 | Astranis | San Francisco, CA | [Radio Hardware - Intern (Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/6efdf927-4c2f-4221-8f48-d3d4a2264df1) |
 | Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Undergraduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Undergraduate-Engineering-Intern_R22860) |
-| Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Graduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Graduate-Engineering-Intern_R22868) |
 | ~~Caterpillar[^1]~~ | ~~Peoria, IL~~ | ~~[Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/)~~ |
 | Cisco | Multiple Locations | [Hardware Engineer I (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1380608) |
 | Cisco | Multiple Locations | [Hardware Engineer II (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1380611) |

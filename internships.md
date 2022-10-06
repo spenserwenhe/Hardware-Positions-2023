@@ -11,13 +11,11 @@
 | Astranis | San Francisco, CA | [Radiation Effects - Intern ( Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/ca63e3fa-8386-4563-ab41-cd1bb6b8fdda) |
 | Astranis | San Francisco, CA | [Radio Hardware - Intern (Fall 2022/Winter 2023)](https://jobs.lever.co/astranis/6efdf927-4c2f-4221-8f48-d3d4a2264df1) |
 | Blue Origin | Seattle, WA; West Texas, TX; Huntsville, AL; Space Coast, FL | [Spring 2023: Undergraduate Engineering Intern](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2023--Undergraduate-Engineering-Intern_R22860) |
-| ~~Caterpillar[^1]~~ | ~~Peoria, IL~~ | ~~[Engineering Summer Intern - 2023](https://careers.caterpillar.com/en/jobs/job/r0000139145-engineering-summer-intern-2023/)~~ |
 | Cisco | Multiple Locations | [Hardware Engineer I (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1380608) |
 | Cisco | Multiple Locations | [Hardware Engineer II (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1380611) |
 | Cisco | San Jose, CA; Research Triangle Park, NC | [Hardware Engineer PhD (Intern)](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-PhD-Intern-United-States/1380742) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Winter 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Winter-2023-Meraki/1369140) |
 | Cisco | San Francisco, CA | [Product Software Engineer (Firmware / Features) Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Summer-2023-Meraki/1373285) |
-| ~~Emerson~~ | ~~Sidney, OH~~ | ~~[Electrical Engineering Co-op - (Summer 2023 Semester - May Start) - Multiple Positions Available](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22021046?utm_medium=jobshare)~~ |
 | Gecko Robotics | Pittsburgh, PA | [Electrical/Firmware/Integration Engineering - Internship](https://www.geckorobotics.com/company/apply?gh_jid=5209108003&gh_src=f8594bd13us) |
 | Honda | Multiple Locations | [Electrical Engineering Co-op/Intern - Spring 2023](https://hondana.taleo.net/careersection/ah_ext_mobile/jobdetail.ftl?job=544548) |
 | IBM | Multiple Locations | [Firmware Developer Summer Intern: 2023](https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite) |
@@ -75,8 +73,6 @@
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-spring-2023-136639) |
 | The Hershey Company | Hershey, PA | [Electrical Engineering Co-Op (Spring 2023)](https://careers.thehersheycompany.com/job/Hershey-Electrical-Engineering-Co-Op-%28Spring-2023%29-PA-17033/910241000/) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
-| ~~Vermeer~~ | ~~Pella, IA~~ | ~~[Embedded Software Engineer Intern - May 2023](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Intern---May-2023_REQ-10885)~~ |
+
 | Western Digital | Rochester, MN | [RAMP Co-op - Technology Development](https://jobs.smartrecruiters.com/WesternDigital/743999832726145-ramp-co-op-technology-development?src=JB-10069&trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |
 | Zoox | Foster City, CA | [(CVPR) Perception Internship/Co-op - 2023](https://zoox.com/careers/job-opportunity/?job=e823f774-2f3b-463e-b3d7-dc1f0ecfa98b) |
-
-[^1]: Must be a current Caterpillar Intern or Trainee

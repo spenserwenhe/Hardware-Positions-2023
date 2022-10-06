@@ -73,6 +73,5 @@
 | Tesla | Palo Alto, CA | [Vehicle Software Validation Internship (Spring 2023)](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-spring-2023-136639) |
 | The Hershey Company | Hershey, PA | [Electrical Engineering Co-Op (Spring 2023)](https://careers.thehersheycompany.com/job/Hershey-Electrical-Engineering-Co-Op-%28Spring-2023%29-PA-17033/910241000/) |
 | Verkada | San Mateo, CA | [Hardware Engineer (Fall Co-op)](https://jobs.lever.co/verkada/ca071837-f877-4211-9903-0a4ef5ed4cc5) |
-
 | Western Digital | Rochester, MN | [RAMP Co-op - Technology Development](https://jobs.smartrecruiters.com/WesternDigital/743999832726145-ramp-co-op-technology-development?src=JB-10069&trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |
 | Zoox | Foster City, CA | [(CVPR) Perception Internship/Co-op - 2023](https://zoox.com/careers/job-opportunity/?job=e823f774-2f3b-463e-b3d7-dc1f0ecfa98b) |
